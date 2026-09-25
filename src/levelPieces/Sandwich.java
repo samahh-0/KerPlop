@@ -1,5 +1,7 @@
 package levelPieces;
-
+// Sandwich GamePiece
+// Player gets a point if it is on the same space
+// Does not move
 import gameEngine.Drawable;
 import gameEngine.InteractionResult;
 
