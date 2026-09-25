@@ -7,7 +7,6 @@ public class Cliff extends GamePiece{
 
 	public Cliff(char symbol, String label, int location) {
 		super(symbol, label, location);
-		symbol = 'L';
 		
 	}
 	

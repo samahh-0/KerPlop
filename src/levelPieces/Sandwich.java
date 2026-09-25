@@ -7,7 +7,6 @@ public class Sandwich extends GamePiece{
 
 	public Sandwich(char symbol, String label, int location) {
 		super(symbol, label, location);
-		symbol = '<';
 		
 	}
 	

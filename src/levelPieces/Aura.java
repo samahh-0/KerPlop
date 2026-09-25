@@ -8,7 +8,6 @@ public class Aura extends GamePiece{
 
 	public Aura(char symbol, String label, int location) {
 		super(symbol, label, location);
-		symbol = 'O';
 		
 	}
 	
