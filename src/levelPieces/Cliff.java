@@ -1,4 +1,7 @@
 package levelPieces;
+// Cliff GamePiece
+// If the player is on the same space as the cliff, it hits
+// Does not move
 
 import gameEngine.Drawable;
 import gameEngine.InteractionResult;
