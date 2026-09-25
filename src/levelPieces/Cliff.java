@@ -7,7 +7,7 @@ public class Cliff extends GamePiece{
 
 	public Cliff(char symbol, String label, int location) {
 		super(symbol, label, location);
-		
+		System.out.println("L: Cliff (take damage if on same space)");
 	}
 	
 

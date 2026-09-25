@@ -14,6 +14,7 @@ public class Brick implements Drawable {
 	public Brick(int location) {
 		symbol = '-';
 		this.location = location;
+		System.out.println("-: Brick (cannot move past)");
 	}
 
 	public int getLocation() {

@@ -15,6 +15,7 @@ public class Troll extends GamePiece implements Moveable {
 
 	public Troll(char symbol, String label, int location) {
 		super(symbol, label, location);
+		System.out.println("T: Troll (Kills if within 1 space)");
 	}
 
 	@Override

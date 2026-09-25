@@ -8,7 +8,7 @@ public class Aura extends GamePiece{
 
 	public Aura(char symbol, String label, int location) {
 		super(symbol, label, location);
-		
+		System.out.println("A: Aura (gives points if within 2 spaces)");
 	}
 	
 

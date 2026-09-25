@@ -7,6 +7,7 @@ import gameEngine.Moveable;
 public class Mosquito extends GamePiece implements Moveable {
 	public Mosquito(char symbol, String label, int location) {
 		super(symbol, label, location);
+		System.out.println("M: Mosquito (take damage if within 4 spaces of it)");
 	}
 
 	@Override
@@ -26,7 +27,7 @@ public class Mosquito extends GamePiece implements Moveable {
 
 	@Override
 	public InteractionResult interact(Drawable[] gameBoard, int playerLocation) {
-		if (Math.abs(getLocation() - playerLocation) <= 1)
+		if (Math.abs(getLocation() - playerLocation) <= 3)
 			return InteractionResult.HIT;
 		return InteractionResult.NONE;
 	}

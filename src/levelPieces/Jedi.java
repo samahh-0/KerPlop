@@ -1,10 +1,9 @@
 package levelPieces;
 
-import java.util.Random;
-
 import gameEngine.Drawable;
 import gameEngine.InteractionResult;
 import gameEngine.Moveable;
+import java.util.Random;
 
 /**
  * Jedi wanders one step left or right at random each turn. Getting within
@@ -16,6 +15,7 @@ public class Jedi extends GamePiece implements Moveable {
 
 	public Jedi(char symbol, String label, int location) {
 		super(symbol, label, location);
+		System.out.println("J: Jedi (moves to next level if within 2 spaces)");
 	}
 
 	@Override

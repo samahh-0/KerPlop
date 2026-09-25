@@ -7,7 +7,7 @@ public class Sandwich extends GamePiece{
 
 	public Sandwich(char symbol, String label, int location) {
 		super(symbol, label, location);
-		
+		System.out.println("<: Sandwich (get point if on same space)");
 	}
 	
 
