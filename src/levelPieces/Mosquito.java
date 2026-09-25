@@ -3,6 +3,9 @@ package levelPieces;
 import gameEngine.Drawable;
 import gameEngine.InteractionResult;
 import gameEngine.Moveable;
+// Mosquito GamePiece
+// Player takes a hit if it is within 4 spaces of the mosquito
+// Mosiquto moves towards the player 
 
 public class Mosquito extends GamePiece implements Moveable {
 	public Mosquito(char symbol, String label, int location) {
