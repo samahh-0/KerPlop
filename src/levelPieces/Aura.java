@@ -1,6 +1,8 @@
 package levelPieces;
 
-
+// Aura GamePiece 
+// If the player is 2 spaces away or less, gives a point
+// Does not move
 import gameEngine.Drawable;
 import gameEngine.InteractionResult;
 
