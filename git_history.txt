@@ -1,29 +1,15 @@
-commit 6b700aaa76840c9a4afcda5aa3093e6b77a05979
+commit 02b067440f9e9d991480f6b7c8eed84e20fa3d27
 Author: Itsspacenug <aaln22006@gmail.com>
-Date:   Wed Sep 23 14:10:08 2026 -0600
+Date:   Fri Sep 25 12:36:40 2026 -0600
 
-    Initial commit
-commit a217f30d0ed0817a9fae0bff91066f6c96b28760
-Author: Samah <samahh015@gmail.com>
-Date:   Wed Sep 23 15:55:35 2026 -0600
+    final game
 
-    custom GamePieces
-    
-    Aaron & Samah
-
-commit e25c5091ff9ba5b8af3b8c8895871fd6ad52b69d
-Author: Samah <samahh015@gmail.com>
-Date:   Wed Sep 23 15:50:14 2026 -0600
-
-    add Jedi
-    
-    Aaron & Samah
-
-commit 6b700aaa76840c9a4afcda5aa3093e6b77a05979
+commit 0e8b3dda368f9cfc2f52360bb6d92fdcedb430d4
 Author: Itsspacenug <aaln22006@gmail.com>
-Date:   Wed Sep 23 14:10:08 2026 -0600
+Date:   Fri Sep 25 12:24:30 2026 -0600
 
-    Initial commit
+    git log
+
 commit 7955f5598afdb8ca715813701b13fa0dd4baa9ad
 Author: Itsspacenug <aaln22006@gmail.com>
 Date:   Fri Sep 25 12:23:36 2026 -0600
