@@ -1,0 +1,19 @@
+KerPlop Requirements - Piece Description
+At least 7 total pieces in the game
+
+    At least 1 piece should only be Drawable (i.e., not a GamePiece, does not interact) [3pts]
+		- Brick blocks the player (NONE)
+    At least 2 pieces that move (i.e., are a GamePiece and implement Moveable) [6pts].
+        Use at least 2 different move algorithms
+        At least 1 should include some type of random decision/motion
+	
+		- Jedi moves randomly one step left or right (ADVANCE)
+		- Mosquito moves towards the player (HIT)
+		- Troll moves until it hits a wall, then reverses direction (KILL)
+    The remaining pieces (at least 4 more pieces) that are not moveable but interact (i.e., extend GamePiece) [15pts].
+		- Sandwich gives player a point when landing on its square (GET_POINT)
+		- Cliff hits the player when landing on its square (HIT)
+		- Aura gives the player a point when they are 2 spaces or less away (GET_POINT)
+    Include at least one for each type of InteractionResult
+    At least one piece should interact at a distance
+    At most 3 can interact only when on the same square
