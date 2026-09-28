@@ -1,8 +1,86 @@
+commit eb92cb537cfe98ec7f36fd865b322856fcbf784b
+Author: Itsspacenug <aaln22006@gmail.com>
+Date:   Mon Sep 28 16:57:38 2026 -0600
+
+    finished mosquito movement tests
+
+commit cf2a14bf3b164627615d3753d852319f91ab052c
+Author: samahh-0 <samahh015@gmail.com>
+Date:   Mon Sep 28 15:30:59 2026 -0600
+
+    Movement tests
+
+commit 2709cbf6f2e4bad7c5cc0f14eb9afaa01f853733
+Author: samahh-0 <samahh015@gmail.com>
+Date:   Mon Sep 28 14:49:07 2026 -0600
+
+    GamePiece functionality tests
+
+commit fe5b762000b459935349c9198540aa96968e9abb
+Author: samahh-0 <samahh015@gmail.com>
+Date:   Sun Sep 27 15:12:06 2026 -0600
+
+    Tests for Jedi and Mosquito
+
+commit 93077df7259e362778e82dad36875f2953ccc0d4
+Author: Samah <samahh015@gmail.com>
+Date:   Fri Sep 25 15:12:55 2026 -0600
+
+    added pieces description
+
+commit 3de8310fbb9938d217a62b51c5c1fc0ee5ed0359
+Author: Samah <samahh015@gmail.com>
+Date:   Fri Sep 25 15:02:31 2026 -0600
+
+    Update Sandwich.java
+
+commit 0bb014bc53d304f07850270d0f861800c2118dfc
+Author: Samah <samahh015@gmail.com>
+Date:   Fri Sep 25 15:01:47 2026 -0600
+
+    Update Mosquito.java
+
+commit 3597af9321c1106d0ccf2090cb0c3677b91a69de
+Author: Samah <samahh015@gmail.com>
+Date:   Fri Sep 25 15:00:37 2026 -0600
+
+    Update Cliff.java
+
+commit 367391aca55078acfa5f545a3b687975c68a6088
+Author: Samah <samahh015@gmail.com>
+Date:   Fri Sep 25 14:59:37 2026 -0600
+
+    Update Aura.java
+
+commit 4edde7fe8a2034b4b9cbafb5348db8a2f334d8a0
+Merge: 5448e1f 33a2f26
+Author: Itsspacenug <aaln22006@gmail.com>
+Date:   Fri Sep 25 12:40:35 2026 -0600
+
+    Merge branch 'main' of https://github.com/samahh-0/KerPlop
+    # Please enter a commit message to explain why this merge is necessary,
+    # especially if it merges an updated upstream into a topic branch.
+    #
+    # Lines starting with '#' will be ignored, and an empty message aborts
+    # the commit.
+
+commit 5448e1fb2eabc5e1e6dbce1605fd0aff0b4e73bf
+Author: Itsspacenug <aaln22006@gmail.com>
+Date:   Fri Sep 25 12:37:17 2026 -0600
+
+    git log
+
 commit 02b067440f9e9d991480f6b7c8eed84e20fa3d27
 Author: Itsspacenug <aaln22006@gmail.com>
 Date:   Fri Sep 25 12:36:40 2026 -0600
 
     final game
+
+commit 33a2f26661a436ff40dbd19b1661486229af8722
+Author: Samah <samahh015@gmail.com>
+Date:   Fri Sep 25 12:32:03 2026 -0600
+
+    added UML diagram
 
 commit 0e8b3dda368f9cfc2f52360bb6d92fdcedb430d4
 Author: Itsspacenug <aaln22006@gmail.com>
